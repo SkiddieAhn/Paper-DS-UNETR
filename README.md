@@ -4,7 +4,7 @@ This repository is the ```official open-source``` of [Dual Stream Fusion U-Net T
 by Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo and Sanghyun Park. ```(*equally contributed)```
 
 ## 📣 News
-* **[2024/08/20]** network codes are released.
+* **[2024/08/20]** DS-UNETR network codes are released!
 * **[2023/12/12]** Our DS-UNETR has been accepted by IEEE BigComp 2024!
 
 ## Abstract
