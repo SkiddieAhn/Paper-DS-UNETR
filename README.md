@@ -1,7 +1,10 @@
 # Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation
 
 This repository is the ```official open-source``` of [Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10488278)
-by Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo and Sanghyun Park. ```(*equally contributed)```
+by Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo and Sanghyun Park. ```(*equally contributed)```  
+  
+[![Project](https://img.shields.io/badge/Project-Website-87CEEB)](https://shacoding.com/2024/02/22/dual-stream-fusion-u-net-transformers-for-3d-medical-image-segmentation-ieee-bigcomp-2024/)
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://shacoding.com/wp-content/uploads/2024/02/DS-UNETR_BIGCOMP2024.pdf)
 
 ## 📣 News
 * **[2024/08/20]** DS-UNETR network codes are released!
