@@ -26,6 +26,8 @@ The overview of the DS-UNETR framework. In DS-AE, the outputs of the Swin block 
  Comparison on the abdominal multi-organ segmentation (Synapse) dataset. Abbreviations are: Spl: spleen, RKid: right kidney, LKid: left kidney, Gal: gallbladder, Liv: liver, Sto: stomach, Aor: aorta, Pan: pancreas. Best results are bolded. Best seconds are underlined.
 ![image](https://github.com/user-attachments/assets/a36dcd34-1f45-4feb-9865-a0e26babc5ed)
 
+  ## Datasets
+We experimented with the abdominal multi-organ segmentation (Synapse) dataset. We followed the same dataset preprocessing as described in [nnFormer](https://github.com/282857341/nnFormer). You can download it by following the instructions on the nnFormer page.
 
 ## Citation
 If you use our work, please consider citing:  
