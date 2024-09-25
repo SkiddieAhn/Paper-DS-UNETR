@@ -1,4 +1,4 @@
-# Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation
+# Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation (BigComp'24)
 
 This repository is the ```official open-source``` of [Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10488278)
 by Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo and Sanghyun Park. ```(*equally contributed)```  
