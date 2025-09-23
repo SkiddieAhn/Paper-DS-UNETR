@@ -1,4 +1,4 @@
-# Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation (BigComp'24)
+# Dual Stream Fusion U-Net Transformers for 3D Medical Image Segmentation (BigComp 2024 ORAL)
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-DO9874)](https://github.com/SkiddieAhn/Paper-DS-UNETR/blob/main/assets/DS_UNETR_BIGCOMP24.pdf)
 [![Project](https://img.shields.io/badge/Project-Website(ENG)-87CEEB)](https://shacoding.com/2024/02/22/dual-stream-fusion-u-net-transformers-for-3d-medical-image-segmentation-ieee-bigcomp-2024/)
